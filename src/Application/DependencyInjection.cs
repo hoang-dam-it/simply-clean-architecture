@@ -1,8 +1,7 @@
 ﻿using FluentValidation;
-using MediatR.NotificationPublishers;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Application;
+namespace Shop.Application;
 
 public static class DependencyInjection
 {

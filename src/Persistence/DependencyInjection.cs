@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 
-namespace Persistence
+namespace Shop.Persistence
 {
     public static class DependencyInjection
     {

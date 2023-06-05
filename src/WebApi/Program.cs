@@ -1,7 +1,7 @@
-using Application;
-using Infrastructure;
-using Persistence;
 using Serilog;
+using Shop.Application;
+using Shop.Infrastructure;
+using Shop.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
